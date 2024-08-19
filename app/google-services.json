@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "165228598576",
+    "project_id": "projeto-mobile-62cf5",
+    "storage_bucket": "projeto-mobile-62cf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165228598576:android:10e6b8e716351a260aa4f5",
+        "android_client_info": {
+          "package_name": "com.example.brianpdm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyhpWWTi2oZWvK-PhYAIboOExSECNKyJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
